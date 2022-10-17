@@ -7,5 +7,5 @@ const Main = (props) => {
   )
 }
 const Container=styled.div`  
-grid-area:Main;`;
+grid-area:main;`;
 export default Main;

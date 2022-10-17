@@ -3,10 +3,10 @@ import styled from 'styled-components';
 
 const Right = (props) => {
   return (
-    <Container>Leftside</Container>
+    <Container>Right</Container>
   )
 }
 const Container=styled.div`
-grid-area:leftside;`;
+grid-area:rightside;`;
 
 export default Right;

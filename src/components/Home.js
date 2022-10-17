@@ -77,6 +77,5 @@ margin: 25px 0;
   flex-direction: column;
   padding: 0 5px;
 }
-
 `;
 export default Home;
